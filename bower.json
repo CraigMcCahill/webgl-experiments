@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-2016",
+  "authors": [
+    "Craig McCahill <craig.mccahill@gmail.com>"
+  ],
+  "description": "Playground site",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "www.craigmccahill.me.uk",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "modernizr": "~3.3.1",
+    "three.js": "threejs#*"
+  }
+}
